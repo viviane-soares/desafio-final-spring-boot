@@ -1,0 +1,12 @@
+package com.projetodio.userdept.entidades;
+
+public class User {
+
+	private Long id;
+	private String name;
+	private String email;
+	
+	private 	
+	
+	
+}

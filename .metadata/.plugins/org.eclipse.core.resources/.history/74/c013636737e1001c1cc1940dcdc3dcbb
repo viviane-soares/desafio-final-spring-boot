@@ -1,0 +1,5 @@
+package com.projetodio.userdept;
+
+public class UsuarioRepository {
+
+}
